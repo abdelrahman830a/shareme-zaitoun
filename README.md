@@ -1,5 +1,3 @@
-Sure! Here's a sample README file for your Shareme project:
-
 # Shareme: A Comprehensive Full-Stack Social Media Application 📷
 
 ![1RHDhtbqo94-SD](https://github.com/abdelrahman830a/shareme-zaitoun/assets/78018369/3ddbf9e9-0146-4902-90c2-97e566dee184)
