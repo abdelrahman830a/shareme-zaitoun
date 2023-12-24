@@ -2,6 +2,9 @@ Sure! Here's a sample README file for your Shareme project:
 
 # Shareme: A Comprehensive Full-Stack Social Media Application 📷
 
+![1RHDhtbqo94-SD](https://github.com/abdelrahman830a/shareme-zaitoun/assets/78018369/3ddbf9e9-0146-4902-90c2-97e566dee184)
+
+
 Shareme is a multipage project that allows users to share, upload, save, download, and delete images and videos. The app supports user authentication using Google, and users can view all feeds from different categories, select a specific category, and see pins related to it. Each pin has its own page showing all information related to it, including more pins from the same category/user. Users can also view their created or saved pins and sign out.
 
 ## Technologies Used
